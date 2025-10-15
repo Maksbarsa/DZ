@@ -30,4 +30,4 @@ raschet = ((summa * proc_summar) + summa) / srok
 
 print(f"Ваша процентная ставка: {proc} %")
 print(f"Итого ежемесячный платеж составляет: {raschet} руб.")
-#  для Main
+#  для Main!
